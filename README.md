@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/sumit-verma-413932291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit verma" height="30" width="40" /></a>
 <a href="https://fb.com/sumit verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumit verma" height="30" width="40" /></a>
 <a href="https://instagram.com/sumit_verma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_verma._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@SumitVerma-sc7tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumitverma-sc7tk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SumitVerma-sc7tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumitverma-sc7tk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumit_verma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_verma_" height="30" width="40" /></a>
 </p>
 
