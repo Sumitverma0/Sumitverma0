@@ -1,14 +1,17 @@
+
+<div align="center">
+   <img src="https://github.com/Sumitverma0/Sumitverma0/blob/main/header.png" width="auto" height="auto" alt="Gif Description">
+</div>
+
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=WELCOME+TO+MY+PROFILE" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Sumit+Verma;Sumit+Verma" width="auto" height="35"/>
 </p>
+
 <div align="center">
    <img src="https://github.com/Sumitverma0/Sumitverma0/blob/main/coding.gif" width="500" height="300" alt="Gif Description">
 </div>
 
 
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Sumit+Verma;Sumit+Verma" width="auto" height="35"/>
-</p>
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+development;Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
