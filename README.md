@@ -1,3 +1,4 @@
+   <a name="top"></a>
 
 <div align="center">
    <img src="https://github.com/Sumitverma0/Sumitverma0/blob/main/header.png" width="auto" height="auto" alt="Gif Description">
@@ -44,3 +45,28 @@
 <a href="https://www.youtube.com/@SumitVerma-sc7tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumitverma-sc7tk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumit_verma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_verma_" height="30" width="40" /></a>
 </p>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="#top" style="
+    background-color: #00BFFF; /* Changed to light blue */
+    border: none;
+    border-radius: 56px;
+    color: #fff; /* White text */
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+    user-select: none;
+    box-shadow: rgba(255, 255, 255, 0.2) 0 3px 15px inset, rgba(0, 0, 0, 0.1) 0 3px 5px, rgba(0, 0, 0, 0.1) 0 10px 13px;
+  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    🔝 Go to Top
+  </a>
+</div>
+
+
+
